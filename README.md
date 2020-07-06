@@ -1,5 +1,5 @@
 ﻿# TARA
 
-https://ashuksu.github.io/tara/
+https://ashuksu-portfolio.github.io/tara/
 
 Simple landing page. Responsive Web Design [TARA]
