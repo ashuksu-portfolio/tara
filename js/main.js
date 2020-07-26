@@ -55,4 +55,8 @@ $(function () {
   });
 
 
+
+  $('.header__logo').addClass('animate__animated').addClass('animate__fadeInUpBig');
+
+
 });
